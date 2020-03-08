@@ -1,2 +1,2 @@
-# nn_example
-Walkthrough for a neural network
+# Walkthrough for a neural network
+Some notes on how to train a neural network (with calculations in matrix form)
